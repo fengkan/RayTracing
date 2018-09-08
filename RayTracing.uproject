@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.19",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "VictoryBPLibrary",
+			"Enabled": false,
+			"MarketplaceURL": "http://www.ue4code.com"
+		}
+	]
+}
